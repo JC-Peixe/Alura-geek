@@ -1,0 +1,88 @@
+{
+  "produto": [
+    {
+      "nome": "Luffy",
+      "imageUrl": "./assets/img/luffy1.png",
+      "price": "R$150.00",
+      "section": "Luffy",
+      "id": 1
+    },
+    {
+      "nome": "Luffy e Shanks Passando o Chapéu de Palha",
+      "imageUrl": "./assets/img/LuffyEShanks.png",
+      "price": "R$250.00",
+      "section": "Luffy",
+      "id": 2
+    },
+    {
+      "nome": "Luffy Gear4",
+      "imageUrl": "./assets/img/LuffyGear4.png",
+      "price": "R$250.00",
+      "section": "Luffy",
+      "id": 3
+    },
+    {
+      "nome": "Luffy Wano",
+      "imageUrl": "./assets/img/LuffyWano.png",
+      "price": "R$250.00",
+      "section": "Luffy",
+      "id": 4
+    },
+    {
+      "nome": "Zoro Estilo 3 Espadas",
+      "imageUrl": "./assets/img/ZoroSantoriu.png",
+      "price": "R$248.00",
+      "section": "Tripulacao",
+      "id": 5
+    },
+    {
+      "nome": "Sanji Perna Preta",
+      "imageUrl": "./assets/img/sanji.png",
+      "price": "R$247.00",
+      "section": "Tripulacao",
+      "id": 6
+    },
+    {
+      "nome": "Zoro vs Sanji",
+      "imageUrl": "./assets/img/zoroXSanji.png",
+      "price": "R$350.00",
+      "section": "Tripulacao",
+      "id": 7
+    },
+    {
+      "nome": "Zoro",
+      "imageUrl": "./assets/img/zoro1.png",
+      "price": "R$148.00",
+      "section": "Tripulacao",
+      "id": 8
+    },
+    {
+      "nome": "Gol D. Roger vs Barba Branca",
+      "imageUrl": "./assets/img/rogerxbarba.png",
+      "price": "R$580.00",
+      "section": "Diversos",
+      "id": 9
+    },
+    {
+      "nome": "Gol D. Roger",
+      "imageUrl": "./assets/img/GolDRoger2.png",
+      "price": "R$335.00",
+      "section": "Diversos",
+      "id": 10
+    },
+    {
+      "nome": "Barba Branca em MarineFort",
+      "imageUrl": "./assets/img/barbaBrancaMarineFort.png",
+      "price": "R$299.00",
+      "section": "Diversos",
+      "id": 11
+    },
+    {
+      "nome": "Kaido",
+      "imageUrl": "./assets/img/kaido2.png",
+      "price": "R$190.00",
+      "section": "Diversos",
+      "id": 12
+    }
+  ]
+}

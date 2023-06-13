@@ -1,0 +1,45 @@
+.produtos {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo__produto {
+    margin-bottom: 1rem;
+}
+
+.edit-del{    
+    position: absolute;
+    right: 0;
+    margin: 5px;
+}
+
+.edit, .del {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--ghost-white);
+    cursor: pointer;
+    background-color: var(---orange-web);
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    padding: 5px; 
+    margin-right: 5px;  
+}
+
+.del:hover {
+    background-color: var(--orange-web);
+}
+
+.edit:hover {
+    background-color: var(--orange-web);
+}
+
+@media(max-width:425px ),(max-width:375px) {
+    .cabecalho {
+        height: auto;
+        background-color: transparent;
+        margin-top: 2rem;
+    }
+
+    
+}

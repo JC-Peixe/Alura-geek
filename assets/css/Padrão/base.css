@@ -1,0 +1,48 @@
+:root {
+    --color-white: #fff;
+    --color-black: #464646;
+    --color-black2: #1f1f1f;
+    --color-red: #f85b5b;
+    --color-blue: #458be7;
+    --color-blue_claro: #298cc5;
+    --color-blue_claro2: #93cff2;
+    --color-blue_escuro: #073f88;
+    --color-blue2: #0c63cd;
+    --color-gray: #A2A2A2;
+    --white-secundary: #f0f1f3;
+    --red-pantone: #e63946ff;
+    --old-gold: #e2c044ff;
+    --orange-web: #faa916ff;
+    --ghost-white: #f7f7ffff;
+    --poppy: #df2935ff;
+    --icterine: #f4ff52ff;
+    --rich-black: #02111bff;
+    --onyx: #3f4045ff;
+    --tangerine: #ef8a17ff;
+}
+
+.logo__nome a {
+    text-decoration: none;
+    color: var(--color-white)
+}
+
+.container {
+    width: 96%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+html,
+body {
+    font-size: 62.5%;
+    height: 100vh;
+    font-family: 'Raleway', sans-serif;
+    background-color: var(--old-gold);
+    scroll-behavior: smooth;
+}
+
+@media (max-width: 868px) {
+    html {
+        font-size: 50%;
+    }
+}

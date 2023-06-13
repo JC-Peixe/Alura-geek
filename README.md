@@ -1,2 +1,12 @@
-# Alura-geek
- projeto alura geek, site de e-commerce... mas um projeto da turma 4 do programa oracle-oneEducation com a Alura
+<h2>Desafio-Ecommerce AluraGeek</h2>
+<h1>OnePieceStore</h1>
+Projeto foi colocado como desafio pela <strong>Alura + Oracle ONE</strong>, o objetivo desse desafio é praticar tudo que foi passado no curso de front-end (HTML semântico, boas praticas, estrutura e css), 
+aprimorar o entedimento e conceitos estudados no curso de javascript.
+Nesse projeto Foi utilizado consulta a API usando metodo fetch e aplicando o CRUD e organização do código por responsabilidades, e por fim acessando a simulação de banco de dados com Json-server.
+</br></br>
+<div>
+  <p> Não foi de autoria total minha, peguei a base de um projeto muito bom que fiz e fiz minha adaptações</p>
+  <p> Ainda tenho muito o que aprender, espero consiguir fazer algo tão bom quanto esse sozinho, logo em breve!</p>
+  #challengeonealurageekbr4
+</div>
+

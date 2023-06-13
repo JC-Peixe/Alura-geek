@@ -1,0 +1,30 @@
+.logo{
+    width: auto;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo__nome,
+.logo i{
+    font-size: 3rem;
+    color: var(--ghost-white);    
+    font-weight: 600;
+}
+
+.logo i{
+    font-size: 1.6rem;
+}
+
+.logo__nome span{
+    color: var(--rich-black);
+    text-shadow: 0px 1px 1px #fff;
+}
+
+@media(max-width:425px ),(max-width:375px) {
+    .logo{ 
+        width: 100%;
+        justify-content: center;
+    }
+}

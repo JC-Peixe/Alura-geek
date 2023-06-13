@@ -1,0 +1,49 @@
+
+#section__banner{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url("https://cdn.awsli.com.br/800x800/2301/2301122/produto/216793322/1680525641-783640313-mlco6ffu0i.jpg");      
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    display: flex;    
+    height: 50rem;
+}
+
+.banner__texto {    
+    margin-top: 15rem;
+    line-height: 10rem;
+    padding-left: 2.5rem;
+}
+
+.banner__texto h2 {
+    font-size: 5.2rem;
+    color: var(--ghost-white);
+    font-weight: 700;
+}
+
+.banner__texto p {
+    font-size: 2.2rem;
+    color: var(--ghost-white);
+}
+
+@media(max-width:768px) {
+    .banner {
+        margin-top: 2rem;
+    }
+}
+
+@media(max-width:425px ),(max-width:375px) {    
+
+    .banner__texto {
+        text-align: center;
+        margin-top: 8rem;
+        padding: 0;
+    }
+
+    .banner__texto h2 {
+        font-size: 3.5rem;
+    }
+
+    .banner__texto p {
+        font-size: 2rem;
+    }
+}
