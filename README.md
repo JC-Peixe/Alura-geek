@@ -6,6 +6,7 @@ Nesse projeto Foi utilizado consulta a API usando metodo fetch e aplicando o CRU
 </br></br>
 <div>
   <p> Não foi de autoria total minha, peguei a base de um projeto muito bom que fiz e fiz minha adaptações</p>
+  <p>Esse foi o gênio por trás dessa page: https://github.com/jesiel-silva/Desafio-Ecommerce | perdão moço por copiar, eu não tive capacidade e gostei do seu projeto....</p>
   <p> Ainda tenho muito o que aprender, espero conseguir fazer algo tão bom quanto esse sozinho logo em breve!</p>
   #challengeonealurageekbr4
 </div>
